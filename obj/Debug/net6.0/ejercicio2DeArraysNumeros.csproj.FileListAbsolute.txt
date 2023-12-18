@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\bin\Debug\net6.0\ejercicio2DeArraysNumeros.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\bin\Debug\net6.0\ejercicio2DeArraysNumeros.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\bin\Debug\net6.0\ejercicio2DeArraysNumeros.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\bin\Debug\net6.0\ejercicio2DeArraysNumeros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\bin\Debug\net6.0\ejercicio2DeArraysNumeros.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ejercicio2DeArraysNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ejercicio2DeArraysNumeros.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ejercicio2DeArraysNumeros.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ejercicio2DeArraysNumeros.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ejercicio2DeArraysNumeros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\refint\ejercicio2DeArraysNumeros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ejercicio2DeArraysNumeros.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ejercicio2DeArraysNumeros.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio2DeArraysNumeroDel1-100\obj\Debug\net6.0\ref\ejercicio2DeArraysNumeros.dll
